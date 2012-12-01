@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Scratchings]]></title>
-  <link href="http://shanel.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: octopress | Scratchings]]></title>
+  <link href="http://shanel.github.com/blog/categories/octopress/atom.xml" rel="self"/>
   <link href="http://shanel.github.com/"/>
   <updated>2012-12-01T00:50:39-05:00</updated>
   <id>http://shanel.github.com/</id>
