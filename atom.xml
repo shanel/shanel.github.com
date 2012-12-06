@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-
   <title><![CDATA[Scratchings]]></title>
   <link href="http://shanel.github.com/atom.xml" rel="self"/>
   <link href="http://shanel.github.com/"/>
-  <updated>2012-12-05T21:57:28-05:00</updated>
+  <updated>2012-12-05T22:50:31-05:00</updated>
   <id>http://shanel.github.com/</id>
   <author>
     <name><![CDATA[Shane Liebling]]></name>
@@ -13,12 +12,33 @@
   <generator uri="http://octopress.org/">Octopress</generator>
 
   
-  <entry>
-    <title type="html"><![CDATA[Journeys End In Lovers Meeting]]></title>
-    <link href="http://shanel.github.com/blog/2012/12/05/journeys-end-in-lovers-meeting/"/>
-    <updated>2012-12-05T21:42:00-05:00</updated>
-    <id>http://shanel.github.com/blog/2012/12/05/journeys-end-in-lovers-meeting</id>
-    <content type="html"><![CDATA[<p>I recently started reading <a href="http://twitter.com/joe_hill">Joe Hill&#8217;s</a> <a href="http://www.amazon.com/20th-Century-Ghosts-Joe-Hill/dp/B002WTC98S">20th Century Ghosts</a>, a collection of his short stories. The opening tale, <em>Best New Horror</em>, is about a horror fiction editor who goes hunting for a reclusive author and finds more than he was expecting. What inspired me to write this post was the protagonist&#8217;s use of Shakespeare&#8217;s line &#8220;journeys end in lovers meeting.&#8221; (He thinks it after a day&#8217;s journey finally leads him to the author&#8217;s home.) Hill might have just been nodding to Shakespeare, but I think he was actually nodding to another writer, <a href="http://www.wikipedia.org/wiki/Shirley_Jackson">Shirley Jackson</a>, and her novel <a href="http://www.amazon.com/Haunting-Hill-House-Shirley-Jackson/dp/0140071083">The Haunting of Hill House</a>, wherein the main character regularly thinks of the same quote.</p>
+    <entry>
+      
+
+
+
+
+<title type="html"><![CDATA[A final love letter &rarr;]]></title>
+<link href="http://www.lettersofnote.com/2012/02/i-love-my-wife-my-wife-is-dead.html"/>
+<updated>2012-12-05T22:29:00-05:00</updated>
+<id>http://shanel.github.com/blog/2012/12/05/a-final-love-letter</id>
+
+      <content type="html"><![CDATA[<p>A heartbreaking letter from Dr. Richard Feynman to his late wife. Reminds me I should send more of these to my wife.</p>
+<p><a rel="bookmark" href="http://shanel.github.com/blog/2012/12/05/a-final-love-letter/">&infin; Permalink</a></p>]]></content>
+    </entry>
+  
+    <entry>
+      
+
+
+
+
+<title type="html"><![CDATA[Journeys End In Lovers Meeting]]></title>
+<link href="http://shanel.github.com/blog/2012/12/05/journeys-end-in-lovers-meeting/"/>
+<updated>2012-12-05T21:42:00-05:00</updated>
+<id>http://shanel.github.com/blog/2012/12/05/journeys-end-in-lovers-meeting</id>
+
+      <content type="html"><![CDATA[<p>I recently started reading <a href="http://twitter.com/joe_hill">Joe Hill&#8217;s</a> <a href="http://www.amazon.com/20th-Century-Ghosts-Joe-Hill/dp/B002WTC98S">20th Century Ghosts</a>, a collection of his short stories. The opening tale, <em>Best New Horror</em>, is about a horror fiction editor who goes hunting for a reclusive author and finds more than he was expecting. What inspired me to write this post was the protagonist&#8217;s use of Shakespeare&#8217;s line &#8220;journeys end in lovers meeting.&#8221; (He thinks it after a day&#8217;s journey finally leads him to the author&#8217;s home.) Hill might have just been nodding to Shakespeare, but I think he was actually nodding to another writer, <a href="http://www.wikipedia.org/wiki/Shirley_Jackson">Shirley Jackson</a>, and her novel <a href="http://www.amazon.com/Haunting-Hill-House-Shirley-Jackson/dp/0140071083">The Haunting of Hill House</a>, wherein the main character regularly thinks of the same quote.</p>
 
 <p>I finished reading <em>Hill House</em> a week or two ago, so it is still fresh in my memory. Normally books don&#8217;t stick with me for too long after I finish them. <em>Hill House</em> on the other hand lingered with me for days. Maybe it was because Jackson bookends her novel with the same disconcerting lines:</p>
 
@@ -52,16 +72,22 @@
 
 
 <p><a id="resolution">[1]</a>For more on &#8220;resolution&#8221; and &#8220;dissonance&#8221; and how they affect us I strongly recommend Chapter Six in Jonah Lehrer&#8217;s <a href="http://www.amazon.com/Proust-Was-Neuroscientist-Jonah-Lehrer/dp/B002CMLR5Q">Proust Was A Neuroscientist</a> (even if the author would later go on to make up quotes from Bob Dylan in a later work)</p>
-]]></content>
-  </entry>
+<p><a rel="bookmark" href="http://shanel.github.com/blog/2012/12/05/journeys-end-in-lovers-meeting/">&infin; Permalink</a></p>]]></content>
+    </entry>
   
-  <entry>
-    <title type="html"><![CDATA[Moving to Octopress]]></title>
-    <link href="http://shanel.github.com/blog/2012/12/01/moving-to-octopress/"/>
-    <updated>2012-12-01T00:44:00-05:00</updated>
-    <id>http://shanel.github.com/blog/2012/12/01/moving-to-octopress</id>
-    <content type="html"><![CDATA[<p>I have decided to try out Octopress. Huzzah!</p>
-]]></content>
-  </entry>
+    <entry>
+      
+
+
+
+
+<title type="html"><![CDATA[Moving to Octopress]]></title>
+<link href="http://shanel.github.com/blog/2012/12/01/moving-to-octopress/"/>
+<updated>2012-12-01T00:44:00-05:00</updated>
+<id>http://shanel.github.com/blog/2012/12/01/moving-to-octopress</id>
+
+      <content type="html"><![CDATA[<p>I have decided to try out Octopress. Huzzah!</p>
+<p><a rel="bookmark" href="http://shanel.github.com/blog/2012/12/01/moving-to-octopress/">&infin; Permalink</a></p>]]></content>
+    </entry>
   
 </feed>
