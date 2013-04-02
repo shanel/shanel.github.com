@@ -1,28 +1,93 @@
----
-layout: nil
-title : Atom Feed
----
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- 
- <title>{{ site.title }}</title>
- <link href="{{ site.production_url }}/atom.xml" rel="self"/>
- <link href="{{ site.production_url }}"/>
- <updated>{{ site.time | date_to_xmlschema }}</updated>
- <id>{{ site.production_url }}</id>
- <author>
-   <name>{{ site.author.name }}</name>
-   <email>{{ site.author.email }}</email>
- </author>
+  <title><![CDATA[Scratchings]]></title>
+  <link href="http://shanel.github.com/atom.xml" rel="self"/>
+  <link href="http://shanel.github.com/"/>
+  <updated>2012-12-05T22:50:31-05:00</updated>
+  <id>http://shanel.github.com/</id>
+  <author>
+    <name><![CDATA[Shane Liebling]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
 
- {% for post in site.posts %}
- <entry>
-   <title>{{ post.title }}</title>
-   <link href="{{ site.production_url }}{{ post.url }}"/>
-   <updated>{{ post.date | date_to_xmlschema }}</updated>
-   <id>{{ site.production_url }}{{ post.id }}</id>
-   <content type="html">{{ post.content | xml_escape }}</content>
- </entry>
- {% endfor %}
- 
+  
+    <entry>
+      
+
+
+
+
+<title type="html"><![CDATA[A final love letter &rarr;]]></title>
+<link href="http://www.lettersofnote.com/2012/02/i-love-my-wife-my-wife-is-dead.html"/>
+<updated>2012-12-05T22:29:00-05:00</updated>
+<id>http://shanel.github.com/blog/2012/12/05/a-final-love-letter</id>
+
+      <content type="html"><![CDATA[<p>A heartbreaking letter from Dr. Richard Feynman to his late wife. Reminds me I should send more of these to my wife.</p>
+<p><a rel="bookmark" href="http://shanel.github.com/blog/2012/12/05/a-final-love-letter/">&infin; Permalink</a></p>]]></content>
+    </entry>
+  
+    <entry>
+      
+
+
+
+
+<title type="html"><![CDATA[Journeys End In Lovers Meeting]]></title>
+<link href="http://shanel.github.com/blog/2012/12/05/journeys-end-in-lovers-meeting/"/>
+<updated>2012-12-05T21:42:00-05:00</updated>
+<id>http://shanel.github.com/blog/2012/12/05/journeys-end-in-lovers-meeting</id>
+
+      <content type="html"><![CDATA[<p>I recently started reading <a href="http://twitter.com/joe_hill">Joe Hill&#8217;s</a> <a href="http://www.amazon.com/20th-Century-Ghosts-Joe-Hill/dp/B002WTC98S">20th Century Ghosts</a>, a collection of his short stories. The opening tale, <em>Best New Horror</em>, is about a horror fiction editor who goes hunting for a reclusive author and finds more than he was expecting. What inspired me to write this post was the protagonist&#8217;s use of Shakespeare&#8217;s line &#8220;journeys end in lovers meeting.&#8221; (He thinks it after a day&#8217;s journey finally leads him to the author&#8217;s home.) Hill might have just been nodding to Shakespeare, but I think he was actually nodding to another writer, <a href="http://www.wikipedia.org/wiki/Shirley_Jackson">Shirley Jackson</a>, and her novel <a href="http://www.amazon.com/Haunting-Hill-House-Shirley-Jackson/dp/0140071083">The Haunting of Hill House</a>, wherein the main character regularly thinks of the same quote.</p>
+
+<p>I finished reading <em>Hill House</em> a week or two ago, so it is still fresh in my memory. Normally books don&#8217;t stick with me for too long after I finish them. <em>Hill House</em> on the other hand lingered with me for days. Maybe it was because Jackson bookends her novel with the same disconcerting lines:</p>
+
+<blockquote><p>Hill House, not sane, stood by itself against its hills, holding darkness within; it had stood for eighty years and might stand for eighty more. Within, walls continued upright, bricks met neatly, floors were firm, and doors were sensibly shut; silence lay steadily against the wood and stone of Hill House, and whatever walked there, walked alone.</p></blockquote>
+
+
+<p>The explicit note that Hill House was &#8220;not sane,&#8221; contrasted with the list of &#8220;sane&#8221; structural details leaves something in you anxious. That anxiety stays with you throughout the book and beyond the final page.</p>
+
+<p>Jackson makes expert use of that anxiety consistently. Nothing is ever directly seen in <em>Hill House</em>, it is all implied or only briefly glimpsed. Loud banging on doors in the night, the sound getting closer and closer, the source of which is never actually faced. The dog heard and briefly glimpsed out the corner of your eye is chased for an hour, but never really seen. If I were speaking about a piece of music, I would say everything was left <a href="http://www.wikipedia.org/wiki/Resolution_(music">unresolved.</a>) As in music, each time something is left unresolved you feel that much more uncomfortable, asking yourself &#8220;what is going on?&#8221;<a href="#resolution">[1]</a></p>
+
+<p>This lack of resolution means Jackson never makes it known how much of what the characters experience is in their heads and how much is actually happening. Maybe that is what makes the work so disturbing. It reminds us the line between sanity and madness is a fine one and the slide from the one to the other can be so slow as to be imperceptible. This testing of sanity doesn&#8217;t only happen to the characters but to you as well. Did that shadow in the corner just get bigger? Is it really you being a klutz that leads you to always stub your toe on the corner of the dresser?</p>
+
+<p>After a few moments thinking this way you laugh it off, but somewhere deep inside the more primitive part of your brain connections are being formed to remember those dangers in the dark, preparing for the worst. I wonder if this isn&#8217;t one of the reasons we do read horror/suspense fiction and see horror/suspense movies. Maybe there is some evolutionary utility in seeing how things can go wrong for people so that we can make sure we don&#8217;t make the same mistakes.</p>
+
+<p>Only one of Jackson&#8217;s characters has any in-depth knowledge of the otherworldly, which doesn&#8217;t really do him much good anyway. The main character Eleanor definitely doesn&#8217;t have a horror fiction background:</p>
+
+<blockquote><p>Eleanor knew that, even if her feet would take her as far as the door, her hand would not lift to the doorknob; impartially, remotely, she told herself that no one&#8217;s hand would touch that knob; it&#8217;s not the work hands were made for, she told herself.</p></blockquote>
+
+
+<p>This is in stark contrast to Hill&#8217;s protagonist who for most of his professional life has lived and breathed horror stories and as such is ready for the moment when his life becomes one:</p>
+
+<blockquote><p>He hit the front door, banged through it. He didn&#8217;t leap the stairs, but took them one at a time. When you were running from someone, you never jumped the stairs; that was how you twisted an ankle. He had seen it in a hundred horror movies.</p></blockquote>
+
+
+<p>I think periodic dosed of the macabre might do us some good, like <a href="http://www.wikipedia.org/wiki/Mithridates_VI_of_Pontus#Mithridates.27_antidote">Mithridates</a>. &#8220;He died <a href="http://www.bartleby.com/123/62.html">old</a>.&#8221; Reminding us that our time here is short and that even if we live in a much safer world than our ancestors, we should still be weary and look over our shoulder now and again.</p>
+
+<hr>
+
+
+<br>
+
+
+<p><a id="resolution">[1]</a>For more on &#8220;resolution&#8221; and &#8220;dissonance&#8221; and how they affect us I strongly recommend Chapter Six in Jonah Lehrer&#8217;s <a href="http://www.amazon.com/Proust-Was-Neuroscientist-Jonah-Lehrer/dp/B002CMLR5Q">Proust Was A Neuroscientist</a> (even if the author would later go on to make up quotes from Bob Dylan in a later work)</p>
+<p><a rel="bookmark" href="http://shanel.github.com/blog/2012/12/05/journeys-end-in-lovers-meeting/">&infin; Permalink</a></p>]]></content>
+    </entry>
+  
+    <entry>
+      
+
+
+
+
+<title type="html"><![CDATA[Moving to Octopress]]></title>
+<link href="http://shanel.github.com/blog/2012/12/01/moving-to-octopress/"/>
+<updated>2012-12-01T00:44:00-05:00</updated>
+<id>http://shanel.github.com/blog/2012/12/01/moving-to-octopress</id>
+
+      <content type="html"><![CDATA[<p>I have decided to try out Octopress. Huzzah!</p>
+<p><a rel="bookmark" href="http://shanel.github.com/blog/2012/12/01/moving-to-octopress/">&infin; Permalink</a></p>]]></content>
+    </entry>
+  
 </feed>
