@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: octopress | Scratchings]]></title>
+  <link href="http://shanel.github.com/blog/categories/octopress/atom.xml" rel="self"/>
+  <link href="http://shanel.github.com/"/>
+  <updated>2012-12-05T22:50:31-05:00</updated>
+  <id>http://shanel.github.com/</id>
+  <author>
+    <name><![CDATA[Shane Liebling]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+    <entry>
+      
+
+
+
+
+<title type="html"><![CDATA[Moving to Octopress]]></title>
+<link href="http://shanel.github.com/blog/2012/12/01/moving-to-octopress/"/>
+<updated>2012-12-01T00:44:00-05:00</updated>
+<id>http://shanel.github.com/blog/2012/12/01/moving-to-octopress</id>
+
+      <content type="html"><![CDATA[<p>I have decided to try out Octopress. Huzzah!</p>
+
+<p><a rel="bookmark" href="http://shanel.github.com/blog/2012/12/01/moving-to-octopress/">&infin; Permalink</a></p>
+
+]]></content>
+    </entry>
+  
+</feed>
+
