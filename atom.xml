@@ -1,113 +1,29 @@
-
-<!DOCTYPE html>
-<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
-<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
-<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
-<head>
-  <meta charset="utf-8">
-  <title>Scratchings</title>
-  <meta name="author" content="Shane Liebling">
-
-  
-  <meta name="description" content="The desktop image on my computer is that of the final minutes of a sunset on the southern California coast. It was taken a mile or so away from where &hellip;">
-  
-
-  <!-- http://t.co/dKP3o1e -->
-  <meta name="HandheldFriendly" content="True">
-  <meta name="MobileOptimized" content="320">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-
-  
-  <link rel="canonical" href="http://shanel.github.com/">
-  <link href="/favicon.png" rel="icon">
-  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
-  <script src="/javascripts/modernizr-2.0.js"></script>
-  <script src="/javascripts/ender.js"></script>
-  <script src="/javascripts/octopress.js" type="text/javascript"></script>
-  <link href="/atom.xml" rel="alternate" title="Scratchings" type="application/atom+xml">
-  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
-<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
-<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
-
-  
-
-</head>
-
-<body   >
-  <header role="banner"><hgroup>
-  <h1><a href="/">Scratchings</a></h1>
-  
-    <h2>The randomness that spews forth from my mind</h2>
-  
-</hgroup>
-
-</header>
-  <nav role="navigation"><ul class="subscription" data-subscription="rss">
-  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
-  
-</ul>
-  
-<form action="http://google.com/search" method="get">
-  <fieldset role="search">
-    <input type="hidden" name="q" value="site:shanel.github.com" />
-    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
-  </fieldset>
-</form>
-  
-<ul class="main-navigation">
-  <li><a href="/">Blog</a></li>
-  <li><a href="/blog/archives">Archives</a></li>
-</ul>
-
-</nav>
-  <div id="main">
-    <div id="content">
-      <div class="blog-index">
-  
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[Scratchings]]></title>
+  <link href="http://shanel.github.com/atom.xml" rel="self"/>
+  <link href="http://shanel.github.com/"/>
+  <updated>2013-04-07T23:39:04-04:00</updated>
+  <id>http://shanel.github.com/</id>
+  <author>
+    <name><![CDATA[Shane Liebling]]></name>
     
-    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
 
-
-
-
-
-
-
-
-
-    <article >
+  
+    <entry>
       
-  <header>
-    <h1 class="entry-title">
-
-<a href="/blog/2013/04/02/nostalgia/">Nostalgia</a>
-
-</h1>
-
-    
-      <p class="meta">
-        
 
 
 
 
+<title type="html"><![CDATA[Nostalgia]]></title>
+<link href="http://shanel.github.com/blog/2013/04/02/nostalgia/"/>
+<updated>2013-04-02T06:47:00-04:00</updated>
+<id>http://shanel.github.com/blog/2013/04/02/nostalgia</id>
 
-
-
-
-  
-
-
-<time datetime="2013-04-02T06:47:00-04:00" pubdate data-updated="true">Apr 2<span>nd</span>, 2013</time>
-        
-         &bull; <a rel="bookmark" href="/blog/2013/04/02/nostalgia/">&infin;</a>
-      </p>
-    
-  </header>
-
-
-
-  <div class="entry-content"><p>The desktop image on my computer is that of the final minutes of a sunset on the southern California coast. It was taken a mile or so away from where I grew up. Although I have not been back to that place for at least a decade it still holds some sort of draw for me. Maybe it is because I haven&#8217;t been back in so long.</p>
+      <content type="html"><![CDATA[<p>The desktop image on my computer is that of the final minutes of a sunset on the southern California coast. It was taken a mile or so away from where I grew up. Although I have not been back to that place for at least a decade it still holds some sort of draw for me. Maybe it is because I haven&#8217;t been back in so long.</p>
 
 <p>Nostalgia and memory are two subjects I think about a lot. How and why is it that certain time and places always seem to stay with us, seem to come back to us at the strangest times?</p>
 
@@ -138,106 +54,36 @@
 <p>I am someone who tends to be able to deal with the unpredictable, maybe due to my childhood growing up in a land of Santa Anas and earthquakes, things you had no control over and as such could only prepare for and ride out when they came. Maybe it&#8217;s just a temperament, but as I have grown older I have come to see I can only roll with so many punches before they start being too much for me to handle. When that happens, I return to the things I know. I watch movies I have seen many times already, reread books I have read in the past, listen to the same albums over and over again. The certainty of things I know helps me to weather the stresses of uncertainty.</p>
 
 <p>Maybe this is at the heart of what draws me to Didion&#8217;s discussion of Santa Anas: these are the uncertainties I know. These are the seemingly random life-stressing events I have experience with and so I become nostalgic for them. I know what to expect during the Santa Anas, but here on a different coast in a different season with parts of my life in constant flux, I am unable to cope. So I look back fondly on things most people would rather avoid.</p>
-</div>
-
-
-    </article>
+<p><a rel="bookmark" href="http://shanel.github.com/blog/2013/04/02/nostalgia/">&infin; Permalink</a></p>]]></content>
+    </entry>
   
-    
-    
-
-
-
-  
-
-
-
-
-
-
-
-    <article data-linklog>
+    <entry>
       
-  <header>
-    <h1 class="entry-title">
-
-<a href="http://www.lettersofnote.com/2012/02/i-love-my-wife-my-wife-is-dead.html">A Final Love Letter</a>
-<span class='linklog-marker'>&rarr;</span>
-</h1>
-
-    
-      <p class="meta">
-        
 
 
 
 
+<title type="html"><![CDATA[A final love letter &rarr;]]></title>
+<link href="http://www.lettersofnote.com/2012/02/i-love-my-wife-my-wife-is-dead.html"/>
+<updated>2012-12-05T22:29:00-05:00</updated>
+<id>http://shanel.github.com/blog/2012/12/05/a-final-love-letter</id>
 
-
-
-
+      <content type="html"><![CDATA[<p>A heartbreaking letter from Dr. Richard Feynman to his late wife. Reminds me I should send more of these to my wife.</p>
+<p><a rel="bookmark" href="http://shanel.github.com/blog/2012/12/05/a-final-love-letter/">&infin; Permalink</a></p>]]></content>
+    </entry>
   
-
-
-<time datetime="2012-12-05T22:29:00-05:00" pubdate data-updated="true">Dec 5<span>th</span>, 2012</time>
-        
-         &bull; <a rel="bookmark" href="/blog/2012/12/05/a-final-love-letter/">&infin;</a>
-      </p>
-    
-  </header>
-
-
-
-  <div class="entry-content"><p>A heartbreaking letter from Dr. Richard Feynman to his late wife. Reminds me I should send more of these to my wife.</p>
-</div>
-
-
-    </article>
-  
-    
-    
-
-
-
-
-
-
-
-
-
-    <article >
+    <entry>
       
-  <header>
-    <h1 class="entry-title">
-
-<a href="/blog/2012/12/05/journeys-end-in-lovers-meeting/">Journeys End in Lovers Meeting</a>
-
-</h1>
-
-    
-      <p class="meta">
-        
 
 
 
 
+<title type="html"><![CDATA[Journeys End In Lovers Meeting]]></title>
+<link href="http://shanel.github.com/blog/2012/12/05/journeys-end-in-lovers-meeting/"/>
+<updated>2012-12-05T21:42:00-05:00</updated>
+<id>http://shanel.github.com/blog/2012/12/05/journeys-end-in-lovers-meeting</id>
 
-
-
-
-  
-
-
-<time datetime="2012-12-05T21:42:00-05:00" pubdate data-updated="true">Dec 5<span>th</span>, 2012</time>
-        
-         &bull; <a rel="bookmark" href="/blog/2012/12/05/journeys-end-in-lovers-meeting/">&infin;</a>
-      </p>
-    
-  </header>
-
-
-
-  <div class="entry-content"><p>I recently started reading <a href="http://twitter.com/joe_hill">Joe Hill&#8217;s</a> <a href="http://www.amazon.com/20th-Century-Ghosts-Joe-Hill/dp/B002WTC98S">20th Century Ghosts</a>, a collection of his short stories. The opening tale, <em>Best New Horror</em>, is about a horror fiction editor who goes hunting for a reclusive author and finds more than he was expecting. What inspired me to write this post was the protagonist&#8217;s use of Shakespeare&#8217;s line &#8220;journeys end in lovers meeting.&#8221; (He thinks it after a day&#8217;s journey finally leads him to the author&#8217;s home.) Hill might have just been nodding to Shakespeare, but I think he was actually nodding to another writer, <a href="http://www.wikipedia.org/wiki/Shirley_Jackson">Shirley Jackson</a>, and her novel <a href="http://www.amazon.com/Haunting-Hill-House-Shirley-Jackson/dp/0140071083">The Haunting of Hill House</a>, wherein the main character regularly thinks of the same quote.</p>
+      <content type="html"><![CDATA[<p>I recently started reading <a href="http://twitter.com/joe_hill">Joe Hill&#8217;s</a> <a href="http://www.amazon.com/20th-Century-Ghosts-Joe-Hill/dp/B002WTC98S">20th Century Ghosts</a>, a collection of his short stories. The opening tale, <em>Best New Horror</em>, is about a horror fiction editor who goes hunting for a reclusive author and finds more than he was expecting. What inspired me to write this post was the protagonist&#8217;s use of Shakespeare&#8217;s line &#8220;journeys end in lovers meeting.&#8221; (He thinks it after a day&#8217;s journey finally leads him to the author&#8217;s home.) Hill might have just been nodding to Shakespeare, but I think he was actually nodding to another writer, <a href="http://www.wikipedia.org/wiki/Shirley_Jackson">Shirley Jackson</a>, and her novel <a href="http://www.amazon.com/Haunting-Hill-House-Shirley-Jackson/dp/0140071083">The Haunting of Hill House</a>, wherein the main character regularly thinks of the same quote.</p>
 
 <p>I finished reading <em>Hill House</em> a week or two ago, so it is still fresh in my memory. Normally books don&#8217;t stick with me for too long after I finish them. <em>Hill House</em> on the other hand lingered with me for days. Maybe it was because Jackson bookends her novel with the same disconcerting lines:</p>
 
@@ -271,173 +117,22 @@
 
 
 <p><a id="resolution">[1]</a>For more on &#8220;resolution&#8221; and &#8220;dissonance&#8221; and how they affect us I strongly recommend Chapter Six in Jonah Lehrer&#8217;s <a href="http://www.amazon.com/Proust-Was-Neuroscientist-Jonah-Lehrer/dp/B002CMLR5Q">Proust Was A Neuroscientist</a> (even if the author would later go on to make up quotes from Bob Dylan in a later work)</p>
-</div>
-
-
-    </article>
+<p><a rel="bookmark" href="http://shanel.github.com/blog/2012/12/05/journeys-end-in-lovers-meeting/">&infin; Permalink</a></p>]]></content>
+    </entry>
   
-    
-    
-
-
-
-
-
-
-
-
-
-    <article >
+    <entry>
       
-  <header>
-    <h1 class="entry-title">
-
-<a href="/blog/2012/12/01/moving-to-octopress/">Moving to Octopress</a>
-
-</h1>
-
-    
-      <p class="meta">
-        
 
 
 
 
+<title type="html"><![CDATA[Moving to Octopress]]></title>
+<link href="http://shanel.github.com/blog/2012/12/01/moving-to-octopress/"/>
+<updated>2012-12-01T00:44:00-05:00</updated>
+<id>http://shanel.github.com/blog/2012/12/01/moving-to-octopress</id>
 
-
-
-
+      <content type="html"><![CDATA[<p>I have decided to try out Octopress. Huzzah!</p>
+<p><a rel="bookmark" href="http://shanel.github.com/blog/2012/12/01/moving-to-octopress/">&infin; Permalink</a></p>]]></content>
+    </entry>
   
-
-
-<time datetime="2012-12-01T00:44:00-05:00" pubdate data-updated="true">Dec 1<span>st</span>, 2012</time>
-        
-         &bull; <a rel="bookmark" href="/blog/2012/12/01/moving-to-octopress/">&infin;</a>
-      </p>
-    
-  </header>
-
-
-
-  <div class="entry-content"><p>I have decided to try out Octopress. Huzzah!</p>
-</div>
-
-
-    </article>
-  
-  <div class="pagination">
-    
-    <a href="/blog/archives">Blog Archives</a>
-    
-  </div>
-</div>
-<aside class="sidebar">
-  
-    <section>
-  <h1>Recent Posts</h1>
-  <ul id="recent_posts">
-    
-      <li class="post">
-        <a href="/blog/2013/04/02/nostalgia/">Nostalgia</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2012/12/05/a-final-love-letter/">A final love letter</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2012/12/05/journeys-end-in-lovers-meeting/">Journeys End In Lovers Meeting</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2012/12/01/moving-to-octopress/">Moving to Octopress</a>
-      </li>
-    
-  </ul>
-</section>
-
-<section>
-  <h1>GitHub Repos</h1>
-  <ul id="gh_repos">
-    <li class="loading">Status updating&#8230;</li>
-  </ul>
-  
-  <a href="https://github.com/shanel">@shanel</a> on GitHub
-  
-  <script type="text/javascript">
-    $.domReady(function(){
-        if (!window.jXHR){
-            var jxhr = document.createElement('script');
-            jxhr.type = 'text/javascript';
-            jxhr.src = '/javascripts/libs/jXHR.js';
-            var s = document.getElementsByTagName('script')[0];
-            s.parentNode.insertBefore(jxhr, s);
-        }
-
-        github.showRepos({
-            user: 'shanel',
-            count: 4,
-            skip_forks: false,
-            target: '#gh_repos'
-        });
-    });
-  </script>
-  <script src="/javascripts/github.js" type="text/javascript"> </script>
-</section>
-
-
-<section>
-  <h1>Latest Tweets</h1>
-  <ul id="tweets">
-    <li class="loading">Status updating&#8230;</li>
-  </ul>
-  <script type="text/javascript">
-    $.domReady(function(){
-      getTwitterFeed("shanel", 4, false);
-    });
-  </script>
-  <script src="/javascripts/twitter.js" type="text/javascript"> </script>
-  
-    <a href="http://twitter.com/shanel" class="twitter-follow-button" data-show-count="false">Follow @shanel</a>
-  
-</section>
-
-
-
-
-
-  
-</aside>
-
-    </div>
-  </div>
-  <footer role="contentinfo"><p>
-  Copyright &copy; 2013 - Shane Liebling -
-  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
-</p>
-
-</footer>
-  
-
-
-
-
-
-
-
-  <script type="text/javascript">
-    (function(){
-      var twitterWidgets = document.createElement('script');
-      twitterWidgets.type = 'text/javascript';
-      twitterWidgets.async = true;
-      twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
-      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
-    })();
-  </script>
-
-
-
-
-
-</body>
-</html>
+</feed>
